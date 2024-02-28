@@ -192,6 +192,17 @@ entries:
     version: 0.1.1
   vllm:
   - apiVersion: v2
+    appVersion: v0.3.2
+    created: "2024-02-28T15:35:40.084391124Z"
+    description: 'A Helm chart for deploying vLLM. vLLM is a fast and easy-to-use
+      library for LLM inference and serving. '
+    digest: af56a5fe715a339a4d233955662432425844925b3505ea428f2a03746d3130a3
+    name: vllm
+    type: application
+    urls:
+    - https://github.com/sangtnguyen-kms/vllm-helm/releases/download/vllm-0.3.2/vllm-0.3.2.tgz
+    version: 0.3.2
+  - apiVersion: v2
     appVersion: v0.3.1
     created: "2024-02-18T07:50:45.185520264Z"
     description: 'A Helm chart for deploying vLLM. vLLM is a fast and easy-to-use
@@ -268,4 +279,4 @@ entries:
     urls:
     - https://github.com/substratusai/helm/releases/download/vllm-0.1.1/vllm-0.1.1.tgz
     version: 0.1.1
-generated: "2024-02-18T07:50:45.185572101Z"
+generated: "2024-02-28T15:35:40.084446067Z"
